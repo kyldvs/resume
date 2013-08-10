@@ -8,7 +8,7 @@ a:hover {
 }
 
 body {
-  background: #444;
+  background: #666;
   margin: 0 auto;
   padding: 20px;
   width: 840px;
@@ -53,5 +53,6 @@ body {
 }
 
 .panel {
+  border-color: #000;
   padding-bottom: 30px;
 }
