@@ -51,3 +51,7 @@ body {
 .space {
   height: 8px;
 }
+
+.panel {
+  padding-bottom: 30px;
+}
