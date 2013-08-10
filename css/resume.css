@@ -1,9 +1,14 @@
+a {
+  color: inherit;
+}
+
 a:hover {
-  text-decoration: none;
+  color: inherit;
+  text-decoration: underline;
 }
 
 body {
-  background: #222;
+  background: #444;
   margin: 0 auto;
   padding: 20px;
   width: 840px;
