@@ -53,6 +53,8 @@ body {
 }
 
 .panel {
-  border-color: #000;
+  border-color: #333;
+  border-radius: 0;
+  border-width: 2px;
   padding-bottom: 30px;
 }
