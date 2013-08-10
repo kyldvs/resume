@@ -1,0 +1,47 @@
+a:hover {
+  text-decoration: none;
+}
+
+body {
+  margin: 0 auto;
+  padding: 20px;
+  width: 840px;
+}
+
+.page {
+  width: 800px;
+}
+
+.rfloat {
+  float: right;
+}
+
+.lfloat {
+  float: left;
+}
+
+.header {
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+.contact {
+  padding-right: 10px;
+  line-height: 28px;
+}
+
+.section-header {
+  font-style: italic;
+}
+
+.section-light-content {
+  color: #606060;
+}
+
+.section-content p {
+  text-align: justify;
+}
+
+.space {
+  height: 8px;
+}
