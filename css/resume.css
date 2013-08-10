@@ -3,6 +3,7 @@ a:hover {
 }
 
 body {
+  background: #222;
   margin: 0 auto;
   padding: 20px;
   width: 840px;
@@ -21,13 +22,13 @@ body {
 }
 
 .header {
-  padding-left: 10px;
   font-size: 20px;
+  padding-left: 10px;
 }
 
 .contact {
-  padding-right: 10px;
   line-height: 28px;
+  padding-right: 10px;
 }
 
 .section-header {
